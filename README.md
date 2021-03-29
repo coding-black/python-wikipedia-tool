@@ -3,7 +3,7 @@ A tool to find wikipedia info just by typing the key word and get every informat
 
 
 Usage :- Step : 1. Clone this project
-              : 2. Run this file in Terminal
+              : 2. Run main.py file in Terminal
               
               
 NOTE :- In Windows, Linux & Termux Use is same.
